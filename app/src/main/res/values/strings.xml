@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hashi_Auth_Github</string>
+
+    <string name="register">Sign Up</string>
+
+    <string name="sign_in">sign In</string>
+    <string name="sign_out">Logout</string>
+    <string name="signed_in">signed In</string>
+    <string name="signed_out">signed-Out</string>
+
+</resources>
